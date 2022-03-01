@@ -1,4 +1,10 @@
 .buttonRow {
+  /*
+    Visually Hidden Component가 position: absolute이고  absolute element의 stacking context가  
+    buttonRow가 되도록 하기 위해 position: relative를 적용함 
+  */
+  position: relative;
+
   overflow: auto;
   white-space: nowrap;
   margin-left: -22px;
