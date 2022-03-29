@@ -56,6 +56,12 @@ footer {
   font-weight: var(--weight-black);
 }
 
+.sublogo {
+  font-weight: var(--weight-medium);
+  font-style: italic;
+  color: var(--color-gray-500);
+}
+
 .legal {
   margin-top: auto;
 }
