@@ -95,6 +95,8 @@ footer {
 
 .links a {
   text-decoration: none;
+  color: var(--color-gray-100);
+  font-weight: var(--font-weight-medium);
 }
 
 main {
