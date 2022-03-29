@@ -81,6 +81,8 @@ footer {
   margin-bottom: 24px;
   letter-spacing: 0.03em;
   text-transform: uppercase;
+  font-weight: var(--weight-bold);
+  color: var(--color-gray-700);
 }
 
 .links li {
