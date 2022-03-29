@@ -7,6 +7,15 @@
   --color-gray-700: hsl(270deg 12% 58%);
   --color-gray-900: hsl(270deg 22% 12%);
   --color-gray-1000: hsl(270deg 20% 8%);
+  --weight-thin: 100;
+  --weight-extra-light: 200;
+  --weight-light: 300;
+  --weight-regular: 400;
+  --weight-medium: 500;
+  --weight-semi-bold: 600;
+  --weight-bold: 700;
+  --weight-extra-bold: 800;
+  --weight-black: 900;
 }
 
 html,
