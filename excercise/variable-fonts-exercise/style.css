@@ -62,8 +62,14 @@ footer {
   color: var(--color-gray-500);
 }
 
+.person-name {
+  font-weight: var(--weight-bold);
+  color: var(--color-gray-300);
+}
+
 .legal {
   margin-top: auto;
+  color: var(--color-gray-300);
 }
 
 .links {
