@@ -52,6 +52,7 @@ footer {
 .logo {
   font-size: 2rem;
   margin-bottom: 16px;
+  font-weight: var(--weight-black);
 }
 
 .legal {
